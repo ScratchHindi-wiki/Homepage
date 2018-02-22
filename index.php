@@ -9,7 +9,7 @@
 <!-- Scratch News -->
 {{Scratchwikiframe|News of scratch|{{:hin:news ofScratch/}}|56%|100px|left|10px|}}<!--
 --><!-- Contents -->
-{{Scratchwikiframe
+{{Scratchwikiframe}}
 |Contents
 |{{hin:Table of Contents}}
 |41%|345px|right|20px
