@@ -13,4 +13,4 @@
 |Contents
 |{{hin:Table of Contents}}
 |41%|345px|right|20px
-|hin:Table of Content}}
+|hin:Latest FPC}}
